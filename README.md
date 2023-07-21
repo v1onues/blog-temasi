@@ -10,4 +10,4 @@ Blog Ana Sayfası
 Blog Yazısı
 İletişim Sayfası
 
-PHPMailer eklemesi yapılmıştır. Ayarlamalarını yapıp kullanabilirsiniz.
+PHPMailer eklemesi yapılmıştır. Ayarlamalarını yapıp kullanabilirsiniz. Bootstrap ile yazılmış bir temadır. Responsive değildir, istek gelirse yapılabilir.
